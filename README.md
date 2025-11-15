@@ -17,4 +17,10 @@ Get the template from [here](https://github.com/TheShittyList/GDListTemplate) an
 
 why not
 
+# CREDITS:
+
+Eggra_ - Creating PYM
+
+Audi - being audi
+
 
